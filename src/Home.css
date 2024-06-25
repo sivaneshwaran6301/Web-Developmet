@@ -1,0 +1,32 @@
+
+
+
+#fields{
+    width: 80%;
+    
+    margin-left:10% ;
+    margin-right: 10%;
+    
+    }
+    
+    .form{
+      margin: 10px;
+    font-size: larger;
+    }
+    .form input{
+      width: 1000px;
+      margin-top: 15px;
+      height: 30px;
+    }
+    .form select{
+      width: 1000px;
+      margin-top: 15px;
+      height: 30px;
+    }
+    
+    #content{
+      height: 300px;
+    }
+    #submit{
+      background-color: rgb(17, 173, 17);
+    }

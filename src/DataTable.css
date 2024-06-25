@@ -1,0 +1,23 @@
+Table, td, tr, th{
+    border: 1px solid;
+    border-collapse: collapse;
+text-align: center;
+}
+th{
+    background-color: rgb(233, 181, 24);
+}
+td{
+    background-color: rgb(202, 181, 118);
+}
+#tablecontainer{
+    overflow: scroll;
+   
+    height: 500px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+th{
+    width:20%;
+    height:50px
+}
